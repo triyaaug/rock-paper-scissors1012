@@ -14,8 +14,8 @@ Description:
 The goal of our website is to display the game Rock Paper Scissors. There will be 3 images on the screen, each for rock, paper and scissors respectively. The player will click on an image to show their choice. Our code will be set so that the computer then makes a randomized choice of one of the images as well. The screen will display who won that round. The code will also keep track of the points for each side using a counter variable on the client-side. After 3 rounds, whoever has more points wins. A screen will pop up showing the message for who won the game at the end of the 3 rounds. 
 
 Detailed Description:
-There will be 2 big boxes on the centre of the screen, one representing the computer and another representing the player. There will be 3 small boxes at the bottom of the screen with a picture of rock, paper, amd scissors representing the button for those items and when clicked it shows their choice. When the button is clicked, the image will show up in the big box according to who clicked it. On the side of the screen, there will be a box that looks like a T-chart to keep count of the points. 
-Rules: <br> - _The player will decide what gesture they want to go with (rock, paper or scissors)  <br>
+There will be 2 big boxes on the centre of the screen, one representing the computer and another representing the player. There will be 3 small boxes at the bottom of the screen with a picture of rock, paper, amd scissors representing the button for those items and when clicked it shows their choice. When the button is clicked, the image will show up in the big box according to who clicked it. On the side of the screen, there will be a box that looks like a T-chart to keep count of the points. <br>
+Rules: -_The player will decide what gesture they want to go with (rock, paper or scissors)  <br>
        -_Once decided the player can not change gesture for the round <br>
        -_The code does not give way to illegal rules such as "blunt scissors" <br>
        -_Rock beats scissors <br>
