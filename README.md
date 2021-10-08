@@ -32,4 +32,5 @@ Software Requirements: <br>
 * Player must click on one of the 3 pictures to show their choice <br>
 * The player cannot click on more than one picture per round
 * Score must be kept count of in the box on the side
+* The computer output must be random
  
