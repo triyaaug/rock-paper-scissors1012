@@ -29,7 +29,7 @@ Rough outline of the screen of the game
 
 Functional Requirements:
 * An automatic welcome pop up when player opens website.
-* A user would be assigned a random name
+* A input box will allow players to choose their name and it will show up on the top of the rectangle
 * The game must end once 3 rounds have been played.
 * Player must click on one of the 3 pictures to show their choice.
 * The player cannot click on more than one picture per round.
