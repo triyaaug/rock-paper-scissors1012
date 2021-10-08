@@ -31,8 +31,9 @@ Software Requirements:
 * The game must end once 3 rounds have been played
 * Player must click on one of the 3 pictures to show their choice 
 * The player cannot click on more than one picture per round
+* Both the computer's and the player's choice will be displayed in the rectangular box at the centre of the screen
 * Score must be kept count of in the box on the side
 * The computer output must be random
 * The rules represent the pre-conditions of the game
-* Winner declaration screen will be shown once the game ends
+* Winner declaration screen will be shown once the game (3 rounds) ends
  
