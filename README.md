@@ -33,4 +33,6 @@ Software Requirements:
 * The player cannot click on more than one picture per round
 * Score must be kept count of in the box on the side
 * The computer output must be random
+* The rules represent the pre-conditions of the game
+* Winner declaration screen will be shown once the game ends
  
