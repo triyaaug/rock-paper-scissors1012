@@ -27,7 +27,7 @@ Rules:
 Rough outline of the screen of the game
 ![rock paper scissors rough](https://user-images.githubusercontent.com/92058853/136573798-a552a81f-e62d-439f-a8b0-07c9ceedd221.jpg)
 
-Software Requirements:
+Functional Requirements:
 * An automatic welcome pop up when player opens website.
 * A user would be assigned a random name
 * The game must end once 3 rounds have been played.
