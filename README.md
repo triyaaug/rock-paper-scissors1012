@@ -1,4 +1,4 @@
-## Hello World
+## Phase 1
 EECS 1012: Term Project -  Phase 0
 
 Name of the team: Lapidary
