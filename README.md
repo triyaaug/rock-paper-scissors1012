@@ -3,7 +3,7 @@ EECS 1012: Term Project -  Phase 0
 
 Name of the team: Lapidary
 
-Members of the team: name, last name, and York email address as well as lecture and lab section of each team member
+Members of the team: name, last name, and York email address as well as lecture and lab section of each team member  
 Triya Augustine, triyaa03@my.yorku.ca, Section B Lab 3
 Abdul Wasay Faizan, awasay67@my.yorku.ca, Section B Lab 3
 Halima Dairo. Halima11@my.yorku.ca, Section B Lab 3.
