@@ -15,7 +15,7 @@ The goal of our website is to display the game Rock Paper Scissors. There will b
 
 Detailed Description:
 There will be 2 big boxes on the centre of the screen, one representing the computer and another representing the player. There will be 3 small boxes at the bottom of the screen with a picture of rock, paper, amd scissors representing the button for those items and when clicked it shows their choice. When the button is clicked, the image will show up in the big box according to who clicked it. On the side of the screen, there will be a box that looks like a T-chart to keep count of the points. 
-Rules: - _The player will decide what gesture they want to go with (rock, paper or scissors)  <br>
+Rules: <br> - _The player will decide what gesture they want to go with (rock, paper or scissors)  <br>
        -_Once decided the player can not change gesture for the round <br>
        -_The code does not give way to illegal rules such as "blunt scissors" <br>
        -_Rock beats scissors <br>
