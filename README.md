@@ -30,13 +30,14 @@ Rough outline of the screen of the game
 Functional Requirements:
 * An automatic welcome pop up when player opens website.
 * A input box will allow players to choose their name and it will show up on the top of the rectangle
-* The game must end once 3 rounds have been played.
+* player must choose between PvP or compVplayer
 * Player must click on one of the 3 pictures to show their choice.
 * The player cannot click on more than one picture per round.
 * Both the computer's and the player's choice will be displayed in the rectangular box at the centre of the screen.
 * Score must be kept count of in the box on the side.
 * The computer output must be random.
 * The rules represent the pre-conditions of the game.
+* The game must end once 3 rounds have been played.
 * Winner declaration screen will be shown once the game (3 rounds) ends.
 
  
