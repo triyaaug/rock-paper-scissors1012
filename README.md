@@ -20,5 +20,5 @@ Rough outline of the screen of the game
 ![rock paper scissors rough](https://user-images.githubusercontent.com/92058853/136573798-a552a81f-e62d-439f-a8b0-07c9ceedd221.jpg)
 
 Software Requirements:
-*The game must end once 3 rounds have been played
-*Player must click on one of the 3 pictures to show their choice
+* The game must end once 3 rounds have been played
+* Player must click on one of the 3 pictures to show their choice
