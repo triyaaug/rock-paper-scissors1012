@@ -36,7 +36,7 @@ Functional Requirements:
 * Both the computer's and the player's choice will be displayed in the rectangular box at the centre of the screen.
 * Score must be kept count of in the box on the side.
 * The computer output must be random.
-* The rules represent the pre-conditions of the game.
+* Click on the the rules button to show the rules which represent the pre-conditions of the game.
 * The game must end once 3 rounds have been played.
 * Winner declaration screen will be shown once the game (3 rounds) ends.
 
