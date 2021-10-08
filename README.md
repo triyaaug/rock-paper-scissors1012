@@ -15,21 +15,21 @@ The goal of our website is to display the game Rock Paper Scissors. There will b
 
 Detailed Description:
 There will be 2 big boxes on the centre of the screen, one representing the computer and another representing the player. There will be 3 small boxes at the bottom of the screen with a picture of rock, paper, amd scissors representing the button for those items and when clicked it shows their choice. When the button is clicked, the image will show up in the big box according to who clicked it. On the side of the screen, there will be a box that looks like a T-chart to keep count of the points. <br>
-Rules: -_The player will decide what gesture they want to go with (rock, paper or scissors)  <br>
-       -_Once decided the player can not change gesture for the round <br>
-       -_The code does not give way to illegal rules such as "blunt scissors" <br>
-       -_Rock beats scissors <br>
-       -_scissors beats paper <br>
-       -_paper beats rock <br>
-       -_WARNING; Do not use game to make life changing choices as we would not be responsible for the outcome. <br>
+Rules: 
+* The player will decide what gesture they want to go with (rock, paper or scissors) 
+* Once decided the player can not change gesture for the round 
+* The code does not give way to illegal rules such as "blunt scissors" 
+* Rock beats scissors 
+* scissors beats paper 
+* paper beats rock 
+* WARNING; Do not use game to make life changing choices as we would not be responsible for the outcome. 
        
-
 Rough outline of the screen of the game
 ![rock paper scissors rough](https://user-images.githubusercontent.com/92058853/136573798-a552a81f-e62d-439f-a8b0-07c9ceedd221.jpg)
 
-Software Requirements: <br>
-* The game must end once 3 rounds have been played <br>
-* Player must click on one of the 3 pictures to show their choice <br>
+Software Requirements:
+* The game must end once 3 rounds have been played
+* Player must click on one of the 3 pictures to show their choice 
 * The player cannot click on more than one picture per round
 * Score must be kept count of in the box on the side
 * The computer output must be random
