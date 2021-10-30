@@ -41,7 +41,7 @@ Functional Requirements:
 * Winner declaration screen will be shown once the game (3 rounds) ends.
 
 ## Phase 2
-Wireframes for the design of the interface
+Wireframes for the design of the interface <br>
 ![wireframe](https://user-images.githubusercontent.com/92058853/139518124-ff7ca65e-8574-4e78-9ab2-bd84e7f2f390.jpg) <br>
 ![wireframe2](https://user-images.githubusercontent.com/92058853/139518070-ee6f2b3d-30ab-4af1-a980-39acc6bf61a9.jpg) <br>
 ![wireframe3](https://user-images.githubusercontent.com/92058853/139518074-00758540-be3e-4329-9c23-70d880fcfc7d.jpg)
