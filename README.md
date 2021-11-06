@@ -23,9 +23,6 @@ Rules:
 * scissors beats paper 
 * paper beats rock 
 * WARNING; Do not use game to make life changing choices as we would not be responsible for the outcome. 
-       
-Rough outline of the screen of the game
-![rock paper scissors rough](https://user-images.githubusercontent.com/92058853/136573798-a552a81f-e62d-439f-a8b0-07c9ceedd221.jpg)
 
 Functional Requirements:
 * An automatic welcome pop up when player opens website.
