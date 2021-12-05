@@ -1,0 +1,75 @@
+* {
+    background-color: #5C5470;
+    
+}
+
+h1{
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: #2A2438 ;
+    padding: 20px;
+    color: wheat;
+
+}
+
+#display {
+    text-align: center;
+}
+button {
+    height: 160px;
+    width: 140px;
+}
+
+#rock {
+    
+   background-image: url(images/rock.jpg);
+   background-size: 140px;
+   position: absolute;
+   top: 50%;
+   
+   transform: translateX(100px);
+
+}
+
+#paper {
+    background-image: url(images/paper.jpg);
+    background-size: 120px;
+    position: absolute;
+    top: 50%;
+    
+    transform: translateX(600px);
+
+}
+
+
+#scissors{
+    background-image: url(images/scissors.jpg);
+    background-size: 130px;
+    position: absolute;
+    top: 50%;
+    
+    transform: translateX(1100px);
+}
+    
+#score {
+    border: 2px solid #DBD8E3;
+    float: right;
+    padding: 5px;
+    padding-right: 2px;
+
+
+}
+#title {
+    text-align: right;
+    font-size: 30px;
+}
+
+#display {
+    text-align: center;
+    font-size: 25px;
+}
+
+#comp {
+    border: 2px;
+    margin: 50px;
+}
